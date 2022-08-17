@@ -1,19 +1,16 @@
 # git-demo
+Repo for Git demo
 
-# common 
-Yunbin second change
-Andy's contribution to the common section
-
+## common 
 
 
 
 
 
 
-# Andy 
 
 
-Andy's first change to the code
+## Andy 
 
 
 
@@ -24,6 +21,7 @@ Andy's first change to the code
 
 
 
-# Yunbin 
 
-Yunbin's first change
+## Yunbin 
+
+
